@@ -1,12 +1,8 @@
-# Movie Recommender System
+# CineMatch Movie Recommender
 
-This project is a content-based movie recommender system using cosine similarity.
+A movie recommendation system built using Machine Learning and Streamlit.
 
-## Features
-- Recommends movies based on similarity
-- Uses metadata like genres, cast, keywords
-- Built using Python and Streamlit
-
-## How to Run
-pip install -r requirements.txt
-streamlit run app.py
+Features:
+- Content-based filtering
+- Similar movie recommendations
+- Interactive UI
